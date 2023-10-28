@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+seaborn
+notebook
+scikit-learn
+catboost
+xgboost
+ensure
+PyYAML
+python-box
+-e.
