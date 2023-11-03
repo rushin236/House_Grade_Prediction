@@ -9,4 +9,5 @@ xgboost
 ensure
 PyYAML
 python-box
+imblearn
 -e.
