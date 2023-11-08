@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as f:
 
 __version__ = "0.0.1"
 
-REPO_NAME = "house_grade_prediction"
+REPO_NAME = "House_Grade_Prediction"
 AUTHOR_USER_NAME = "rushin236"
 SRC_REPO = "houseGrade"
 AUTH_EMAIL = "rushikeshshindesandesh@gmail.com"
